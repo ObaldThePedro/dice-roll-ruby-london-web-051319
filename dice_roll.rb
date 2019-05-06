@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  random_number = rand(6)
+  random_number = rand(16)
 end
